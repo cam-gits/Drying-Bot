@@ -1,4 +1,4 @@
-# A bot posting to mastodon via Pipedream
+# A bot posting to Mastodon via Pipedream
 
 Follow this guide for instructions on opening an account for use with automation: https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/
 
