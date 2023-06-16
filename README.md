@@ -13,7 +13,7 @@ Farming Commentary from Met Éireann updates daily at no set time. Bot set up to
 3. Test the connection:
 
 ```
-{
+
 from mastodon import Mastodon
 
 mastodon = Mastodon(
@@ -22,7 +22,7 @@ mastodon = Mastodon(
 )
 
 mastodon.status_post("hello world!")
-}
+
 ``` 
 
 4. If the accoutn successfully posts this snippet can be replaced with the code in the .py and deployed
