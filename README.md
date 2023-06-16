@@ -25,4 +25,4 @@ mastodon.status_post("hello world!")
 
 ``` 
 
-4. If the accoutn successfully posts this snippet can be replaced with the code in the .py and deployed
+4. If the account successfully posts this snippet can be replaced with the code in the .py and deployed
