@@ -1,4 +1,4 @@
-#A bot posting to mastodon via Pipedream
+# A bot posting to mastodon via Pipedream
 
 Follow this guide for instructions on opening an account for use with automation: https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/
 
@@ -7,7 +7,7 @@ Data source and licencing at https://data.gov.ie/en_GB/dataset/met-eireann-live-
 Farming Commentary from Met Éireann updates daily at no set time. Bot set up to post every 24 hours.
 
 ---
-##Pipedream Workflow:
+## Pipedream Workflow:
 1. Schedule (Daily)
 2. Python > Run Python code
 3. Test the connection:
