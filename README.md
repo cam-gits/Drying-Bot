@@ -26,3 +26,6 @@ mastodon.status_post("hello world!")
 ``` 
 
 4. If the account successfully posts this snippet can be replaced with the code in the .py and deployed
+
+
+![image](https://github.com/cam-gits/Drying-Bot/assets/136761134/8a1b6f00-3f53-4086-9eb4-f7c71b844896)
