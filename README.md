@@ -1,4 +1,5 @@
 # A bot posting to Mastodon via Pipedream
+## Retired as of 19/12/2024
 
 Follow this guide for instructions on opening an account for use with automation: https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/
 
